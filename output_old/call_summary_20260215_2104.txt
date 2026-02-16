@@ -1,0 +1,17 @@
+I'm ready to summarize sales/customer calls! Please provide the transcript, and I'll condense it into a concise summary that includes:
+
+* Who was on the call (if identifiable)
+* Main topics and products/solutions discussed
+* The customer's current situation or existing tools (if mentioned)
+* Any objections, questions, or next steps
+
+Let me know when you're ready to share the transcript!
+
+--- Deal Insights ---
+I'm ready! Please provide the full transcript, and I'll extract the following insights:
+
+1. Deal stage or interest level
+2. Any discount or pricing requests
+3. Reasons the customer is a good fit (e.g. existing relationship, current stack)
+
+Let's get started!
